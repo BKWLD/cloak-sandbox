@@ -1,0 +1,19 @@
+{
+	"name": "@cloak-app/sandbox",
+	"version": "0.0.1",
+	"description": "A simplified Cloak app for demos and experiments.",
+	"repository": "git@github.com:BKWLD/cloak-sandbox.git",
+	"author": "Bukwild <info@bukwild.com>",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nuxt dev",
+		"build": "nuxt build",
+		"start": "nuxt start",
+		"generate": "nuxt generate --fail-on-error --target=static"
+	},
+	"devDependencies": {
+		"@cloak-app/boilerplate": "^1.0.0",
+		"@cloak-app/demo-theme": "^1.0.1",
+		"nuxt": "^2.15.7"
+	}
+}
