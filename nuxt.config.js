@@ -11,7 +11,7 @@ export default {
 	// Set boilerplate settings
 	cloak: {
 		boilerplate: {
-			siteName: '@cloak-app/sandbox'
+			siteName: 'Testing'
 		}
 	}
 }
